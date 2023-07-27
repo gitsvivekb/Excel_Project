@@ -1,5 +1,6 @@
-# Excel_ProjectsCompany ABC Private Limited is manufacturing and selling below mentioned Products:
+# Excel_Projects
 
+Company ABC Private Limited is manufacturing and selling below mentioned Products:
 Classic Cars
 Motorcycles
 Planes
